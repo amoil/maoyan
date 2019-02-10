@@ -1,0 +1,9 @@
+<?php
+echo'[{
+    "imgurl":"img/6a21e35ad7106c60967954b165c09b92915222.jpg@160w_220h_1e_1c.jpg",
+    "cont":"疯狂外星人",
+    "pingfen":8.6,
+	"look":43886
+    }
+]'
+?>
